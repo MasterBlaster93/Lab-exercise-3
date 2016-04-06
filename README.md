@@ -15,7 +15,7 @@ The objective of this set of exercises is to compute hillslope profiles assuming
 2. Now you can open Spyder.
 
     ```bash
-    spyder
+    $ spyder
     ```
 
 Now we are ready to start.
