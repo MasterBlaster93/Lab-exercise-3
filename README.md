@@ -1,5 +1,8 @@
 # Lab-exercise-3
 
+## Sources
+This tutorial is based on [a MATLAB exercise from Prof. Todd Ehlers (Uni Tübingen)](http://www.geo.uni-tuebingen.de/arbeitsgruppen/mineralogie-geodynamik/geologie-geodynamik/ibm-documentation/matlab-tutorial.html).
+
 ## Overview
 The objective of this set of exercises is to compute hillslope profiles assuming hillslope evolution is a diffusive process. As discussed in lecture, the hillslope diffusion model is based on the principal of conservation of mass, which states that the changes in surface elevation are proportional to the sediment flux along the hillslope.
 
